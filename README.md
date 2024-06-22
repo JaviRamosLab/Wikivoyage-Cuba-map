@@ -40,6 +40,11 @@ in the HTML document after of &lt;body&gt;
 
 https://eo.wikivoyage.org/w/api.php
 
+## Roadmap
+[x] api fetch
+[x] map actions
+[x] wikivoyage (__default__)
+[] input option for projects (Wikipedia, Wikivoyage, Wikidata, Commons, Wikiquote, Wikibooks)
 
 ### Demo
 [Demo at JaviRamosLab.github.io](https://JaviRamosLab.github.io/Wikivoyage-Cuba-map)
@@ -55,7 +60,7 @@ Open to contributions
 
 
 ## License
-[![licensebuttons by-sa](https://licensebuttons.net/l/by-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0)
+[![licensebuttons by-sa](https://licensebuttons.net/l/by-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0) and GPL
 
 ### Show some ❤️ by starring some of the repositories!
 ### Developed by Javier Ramos [@JaviRamosLab](@JaviRamosLab) from 🇨🇺 Cuba with "❤️ and ⏰"
